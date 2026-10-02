@@ -1,0 +1,24 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "Fluent AI Pod"
+  },
+  "description": "Claude Code skills for product specs, ticket planning, engineering workflow, and skill authoring",
+  "plugins": [
+    {
+      "name": "pm-tools",
+      "source": "./plugins/pm-tools",
+      "description": "Product-management skills: spec, critique, ticket generation"
+    },
+    {
+      "name": "dev-tools",
+      "source": "./plugins/dev-tools",
+      "description": "Engineering workflow skills: branch setup, planning, commit/PR, review, code health"
+    },
+    {
+      "name": "meta-tools",
+      "source": "./plugins/meta-tools",
+      "description": "Skills that operate on skills: evaluate, lint, and improve Claude skills"
+    }
+  ]
+}

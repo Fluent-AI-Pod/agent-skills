@@ -1,0 +1,7 @@
+{
+  "name": "dev-tools",
+  "description": "Engineering workflow skills: branch setup, planning, commit/PR, review, code health",
+  "author": {
+    "name": "Fluent AI Pod"
+  }
+}

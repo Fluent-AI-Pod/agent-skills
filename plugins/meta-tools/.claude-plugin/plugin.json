@@ -1,0 +1,7 @@
+{
+  "name": "meta-tools",
+  "description": "Skills that operate on skills: evaluate, lint, and improve Claude skills",
+  "author": {
+    "name": "Fluent AI Pod"
+  }
+}
